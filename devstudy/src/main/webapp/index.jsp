@@ -53,8 +53,8 @@
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="/imgboard/mainboard.jsp">photo</a>          	
-          </li>
+
+          <li><a href="${pageContext.request.contextPath}/team">Team</a></li>
           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
